@@ -13,3 +13,5 @@ management:
     web:
       exposure:
         include: '*'
+        
+ com.mpk.custom.prop1: Hello World!
